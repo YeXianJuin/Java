@@ -1,7 +1,11 @@
 Step1. 下載並安裝JDK.exe: http://www.oracle.com/technetwork/java/javase/downloads/jdk10-downloads-4416644.html
 ![image](https://github.com/YeXianJuin/Java/blob/master/downloadpic.PNG)
-Step2. 
+Step2. 設定環境變數(FOR WIN10): 
+        開啟控制台>系統>進階系統設定>環境變數>系統變數中的PATH>點選新增將"C:\Program Files\Java\jdk-10.0.2\bin"路徑貼上>確定
+Step3. 重新開機
+Step4. 測試環境變數是否設定正確: 開啟CMD，輸入java,javac測試
 參考資料：
 1.#1 Java程式設計新手教學 - 安裝JDK與Eclipse 
   https://www.youtube.com/watch?v=evIGdOzKCYk
-2.
+2.Win10環境下如何配置Java JDK系統環境變量
+  https://read01.com/zh-tw/oBaD3.html#.W222hugzbDc
